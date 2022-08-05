@@ -1,0 +1,10 @@
+body {
+  border: 1px solid rgba(198, 83, 140, 0.88);
+}
+
+.level1 {
+  background: red;
+}
+.level1__level2 {
+  background: green;
+}/*# sourceMappingURL=style2.css.map */
